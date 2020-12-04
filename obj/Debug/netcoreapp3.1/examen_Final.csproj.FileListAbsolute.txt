@@ -1,0 +1,13 @@
+C:\Users\Mario MP\source\repos\examen_Final\obj\Debug\netcoreapp3.1\examen_Final.csprojAssemblyReference.cache
+C:\Users\Mario MP\source\repos\examen_Final\obj\Debug\netcoreapp3.1\examen_Final.AssemblyInfoInputs.cache
+C:\Users\Mario MP\source\repos\examen_Final\obj\Debug\netcoreapp3.1\examen_Final.AssemblyInfo.cs
+C:\Users\Mario MP\source\repos\examen_Final\obj\Debug\netcoreapp3.1\examen_Final.csproj.CoreCompileInputs.cache
+C:\Users\Mario MP\source\repos\examen_Final\bin\Debug\netcoreapp3.1\examen_Final.exe
+C:\Users\Mario MP\source\repos\examen_Final\bin\Debug\netcoreapp3.1\examen_Final.deps.json
+C:\Users\Mario MP\source\repos\examen_Final\bin\Debug\netcoreapp3.1\examen_Final.runtimeconfig.json
+C:\Users\Mario MP\source\repos\examen_Final\bin\Debug\netcoreapp3.1\examen_Final.runtimeconfig.dev.json
+C:\Users\Mario MP\source\repos\examen_Final\bin\Debug\netcoreapp3.1\examen_Final.dll
+C:\Users\Mario MP\source\repos\examen_Final\bin\Debug\netcoreapp3.1\examen_Final.pdb
+C:\Users\Mario MP\source\repos\examen_Final\obj\Debug\netcoreapp3.1\examen_Final.dll
+C:\Users\Mario MP\source\repos\examen_Final\obj\Debug\netcoreapp3.1\examen_Final.pdb
+C:\Users\Mario MP\source\repos\examen_Final\obj\Debug\netcoreapp3.1\examen_Final.genruntimeconfig.cache
